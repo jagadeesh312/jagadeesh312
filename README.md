@@ -1,28 +1,18 @@
-# GitHub Profile Review & Repository Management
+# 💫 About Me:
+## 👋 About Me<br><br>Hi, I'm **Jagadeesh SP** — a Computer Technology student and aspiring Full-Stack Web Developer from India 🇮🇳<br><br>💻 I enjoy building modern, responsive websites and turning creative ideas into practical digital solutions.<br><br>🚀 **Currently working on:**<br>- 🌐 Web development using HTML, CSS, and JavaScript<br>- 🤖 AI-based projects and personal assistant applications<br>- ⚡ IoT and smart automation projects<br>- 📦 E-commerce platforms and business websites<br><br>🛠️ **Technologies & Tools**<br>- Frontend: HTML, CSS, JavaScript<br>- Tools: Git, GitHub, VS Code<br>- Exploring: Firebase, APIs, AI, and IoT<br><br>🎯 **My Goals**<br>- Build real-world projects that solve practical problems.<br>- Improve my development and problem-solving skills.<br>- Collaborate with developers and work on client projects.<br>- Grow as a developer through continuous learning.<br><br>📫 **Let's Connect**<br>- GitHub: [@jagadeesh312](https://github.com/jagadeesh312)<br><br>💡 *Learn every day. Build with purpose. Improve with every project.*
 
-📅 **Date:** 11 October 2026
 
-## 📌 Today's Work
-Today, I reviewed my GitHub profile and checked my existing repositories to understand my coding progress and project organization.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagadeesh.sp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagadeeshsp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spjagadeesh2008@gmail.com) 
 
-## ✅ Tasks Completed
-- Reviewed my GitHub profile and repository list.
-- Checked pinned repositories and project descriptions.
-- Reviewed my contribution activity.
-- Identified opportunities to improve repository documentation.
-- Planned improvements to make my GitHub profile more professional.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jagadeesh312&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jagadeesh312&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jagadeesh312&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🎯 Skills Practiced
-- GitHub repository management
-- Project documentation using Markdown
-- Developer profile organization
-- Tracking coding progress
+---
+[![](https://komarev.com/ghpvc/?username=jagadeesh312&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Next Steps
-- Improve repository README files.
-- Add project screenshots and setup instructions.
-- Update repository descriptions.
-- Upload and document new coding projects.
-
-## 📝 Summary
-Today's work focused on reviewing my GitHub profile, organizing my projects, and planning improvements to my developer portfolio.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
